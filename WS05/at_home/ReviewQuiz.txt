@@ -1,0 +1,13 @@
+Tenzin Shedup
+120664180
+Feb 17th, 2019
+
+
+Quiz 6 Revision
+
+Q6) for(auto i = myList.begin(); i!= myList.end(); i++) {
+		std::cout<<*i << std::endl;
+	}
+
+
+Q2) A conatiner class represents a shell for a data strucuture that manages the collection of types associated wiht the elements of that structure and provides interface for encapsulating to access those elements
